@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ass2TorHare2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Hare.cpp
+  Racer.cpp
+  Source.cpp
+c:\users\melan\documents\gex\yr_1\winter2018\object oriented c++\assignments\assignment2\tortoisehareracegame\ass2torhare2\source.cpp(76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tortoise.cpp
+  Generating Code...
+  Ass2TorHare2.vcxproj -> C:\Users\melan\Documents\GEX\YR_1\Winter2018\Object Oriented C++\Assignments\Assignment2\TortoiseHareRaceGame\Debug\Assignment2.exe
